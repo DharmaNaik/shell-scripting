@@ -55,3 +55,25 @@ Just like a movie script needs a director to read it,
 a shell script needs Bash to run it.
 #!/bin/bash tells the computer,
 "Hey, Bash! You're the director of this script."
+
+....................................................................................................................................
+
+***To find and replace a word in a shell script file using VS Code***
+
+✅ Steps (Using GUI in VS Code):
+Open your .sh file in VS Code.
+
+Press Ctrl + H (or Cmd + H on Mac)
+👉 This opens the Find and Replace panel.
+
+In the "Find" box, type the word you want to replace.
+(e.g., echo)
+
+In the "Replace" box, type the new word.
+(e.g., printf)
+
+Click:
+
+🔄 Replace (to replace one by one), or
+
+✅ Replace All (to replace all at once).
