@@ -77,3 +77,6 @@ Click:
 🔄 Replace (to replace one by one), or
 
 ✅ Replace All (to replace all at once).
+
+.............................................................................................
+
